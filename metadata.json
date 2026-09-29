@@ -1,0 +1,6 @@
+{
+  "name": "RotaMoto Pro - Roteiros de Viagem de Moto",
+  "description": "Roteiros planejados para motociclistas: Bate e Volta, Bate e Fica e Tours com paradas a cada 150 km ou 2h, rotas no Google Maps e ferramentas de estrada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
